@@ -1,15 +1,4 @@
 <div id="top"></div>
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -18,11 +7,8 @@
   </a>
 
   <h3 align="center">Sorting Algorithm Visualizer</h3>
-
   <p align="center">
-    <br />
     <a href="https://github.com/Kylejeong2/Sorting-Algorithm-Visualizer"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/Kylejeong2/Sorting-Algorithm-Visualizer">View Demo</a>
     ·
@@ -103,9 +89,9 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Kyle Jeong - [@Kylejeong21](https://twitter.com/kylejeong21) - Kylejeong21@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [(https://github.com/Kylejeong2/Sorting-Algorithm-Visualizer)](https://github.com/Kylejeong2/Sorting-Algorithm-Visualizer)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -113,17 +99,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Clément Mihailescu
-- 
+###Clément Mihailescu
+- https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-url]: https://github.com/Kylejeong2/Sorting-Algorithm-Visualizer/graphs/contributors
-[issues-url]: https://github.com/Kylejeong2/Sorting-Algorithm-Visualizer/issues
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/kyle-jeong/
-[product-screenshot]: images/screenshot.png
