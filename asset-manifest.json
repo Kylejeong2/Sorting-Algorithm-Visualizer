@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.7bda0933.chunk.css",
-  "main.js": "/static/js/main.2755c99e.chunk.js",
-  "main.js.map": "/static/js/main.2755c99e.chunk.js.map",
-  "static/js/1.98639319.chunk.js": "/static/js/1.98639319.chunk.js",
-  "static/js/1.98639319.chunk.js.map": "/static/js/1.98639319.chunk.js.map",
-  "static/js/2.18836d79.chunk.js": "/static/js/2.18836d79.chunk.js",
-  "static/js/2.18836d79.chunk.js.map": "/static/js/2.18836d79.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.b29c9e15.js",
-  "runtime~main.js.map": "/static/js/runtime~main.b29c9e15.js.map",
-  "static/css/main.7bda0933.chunk.css.map": "/static/css/main.7bda0933.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.ccb799a373d6b4e4123dfa75c31411ca.js": "/precache-manifest.ccb799a373d6b4e4123dfa75c31411ca.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/Sorting-Algorithm-Visualizer/static/css/main.7bda0933.chunk.css",
+  "main.js": "/Sorting-Algorithm-Visualizer/static/js/main.2755c99e.chunk.js",
+  "main.js.map": "/Sorting-Algorithm-Visualizer/static/js/main.2755c99e.chunk.js.map",
+  "static/js/1.98639319.chunk.js": "/Sorting-Algorithm-Visualizer/static/js/1.98639319.chunk.js",
+  "static/js/1.98639319.chunk.js.map": "/Sorting-Algorithm-Visualizer/static/js/1.98639319.chunk.js.map",
+  "static/js/2.18836d79.chunk.js": "/Sorting-Algorithm-Visualizer/static/js/2.18836d79.chunk.js",
+  "static/js/2.18836d79.chunk.js.map": "/Sorting-Algorithm-Visualizer/static/js/2.18836d79.chunk.js.map",
+  "runtime~main.js": "/Sorting-Algorithm-Visualizer/static/js/runtime~main.6b70ba87.js",
+  "runtime~main.js.map": "/Sorting-Algorithm-Visualizer/static/js/runtime~main.6b70ba87.js.map",
+  "static/css/main.7bda0933.chunk.css.map": "/Sorting-Algorithm-Visualizer/static/css/main.7bda0933.chunk.css.map",
+  "index.html": "/Sorting-Algorithm-Visualizer/index.html",
+  "precache-manifest.0c3df3a2d9bf40505472dac4c98c82a7.js": "/Sorting-Algorithm-Visualizer/precache-manifest.0c3df3a2d9bf40505472dac4c98c82a7.js",
+  "service-worker.js": "/Sorting-Algorithm-Visualizer/service-worker.js"
 }
