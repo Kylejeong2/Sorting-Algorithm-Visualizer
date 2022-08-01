@@ -1,15 +1,15 @@
 {
-  "main.css": "/SAV-Hosting-Site/static/css/main.8274fc2a.chunk.css",
-  "main.js": "/SAV-Hosting-Site/static/js/main.666b5312.chunk.js",
-  "main.js.map": "/SAV-Hosting-Site/static/js/main.666b5312.chunk.js.map",
-  "runtime~main.js": "/SAV-Hosting-Site/static/js/runtime~main.adbaad99.js",
-  "runtime~main.js.map": "/SAV-Hosting-Site/static/js/runtime~main.adbaad99.js.map",
-  "static/js/2.962529df.chunk.js": "/SAV-Hosting-Site/static/js/2.962529df.chunk.js",
-  "static/js/2.962529df.chunk.js.map": "/SAV-Hosting-Site/static/js/2.962529df.chunk.js.map",
-  "static/js/3.c70b6b5b.chunk.js": "/SAV-Hosting-Site/static/js/3.c70b6b5b.chunk.js",
-  "static/js/3.c70b6b5b.chunk.js.map": "/SAV-Hosting-Site/static/js/3.c70b6b5b.chunk.js.map",
-  "index.html": "/SAV-Hosting-Site/index.html",
-  "precache-manifest.57b6a9bcdad4e6e6933947015379aca5.js": "/SAV-Hosting-Site/precache-manifest.57b6a9bcdad4e6e6933947015379aca5.js",
-  "service-worker.js": "/SAV-Hosting-Site/service-worker.js",
-  "static/css/main.8274fc2a.chunk.css.map": "/SAV-Hosting-Site/static/css/main.8274fc2a.chunk.css.map"
+  "files": {
+    "main.css": "/SAV-Hosting-Site/static/css/main.b2e04d78.css",
+    "main.js": "/SAV-Hosting-Site/static/js/main.78cf6f4d.js",
+    "static/js/787.46cfe393.chunk.js": "/SAV-Hosting-Site/static/js/787.46cfe393.chunk.js",
+    "index.html": "/SAV-Hosting-Site/index.html",
+    "main.b2e04d78.css.map": "/SAV-Hosting-Site/static/css/main.b2e04d78.css.map",
+    "main.78cf6f4d.js.map": "/SAV-Hosting-Site/static/js/main.78cf6f4d.js.map",
+    "787.46cfe393.chunk.js.map": "/SAV-Hosting-Site/static/js/787.46cfe393.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2e04d78.css",
+    "static/js/main.78cf6f4d.js"
+  ]
 }
