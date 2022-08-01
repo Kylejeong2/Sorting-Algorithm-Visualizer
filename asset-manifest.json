@@ -1,15 +1,15 @@
 {
-  "main.css": "/Sorting-Algorithm-Visualizer/static/css/main.8274fc2a.chunk.css",
-  "main.js": "/Sorting-Algorithm-Visualizer/static/js/main.666b5312.chunk.js",
-  "main.js.map": "/Sorting-Algorithm-Visualizer/static/js/main.666b5312.chunk.js.map",
-  "runtime~main.js": "/Sorting-Algorithm-Visualizer/static/js/runtime~main.80fdf477.js",
-  "runtime~main.js.map": "/Sorting-Algorithm-Visualizer/static/js/runtime~main.80fdf477.js.map",
-  "static/js/2.962529df.chunk.js": "/Sorting-Algorithm-Visualizer/static/js/2.962529df.chunk.js",
-  "static/js/2.962529df.chunk.js.map": "/Sorting-Algorithm-Visualizer/static/js/2.962529df.chunk.js.map",
-  "static/js/3.c70b6b5b.chunk.js": "/Sorting-Algorithm-Visualizer/static/js/3.c70b6b5b.chunk.js",
-  "static/js/3.c70b6b5b.chunk.js.map": "/Sorting-Algorithm-Visualizer/static/js/3.c70b6b5b.chunk.js.map",
-  "index.html": "/Sorting-Algorithm-Visualizer/index.html",
-  "precache-manifest.4535533e900b932fea8e4cbc92da2946.js": "/Sorting-Algorithm-Visualizer/precache-manifest.4535533e900b932fea8e4cbc92da2946.js",
-  "service-worker.js": "/Sorting-Algorithm-Visualizer/service-worker.js",
-  "static/css/main.8274fc2a.chunk.css.map": "/Sorting-Algorithm-Visualizer/static/css/main.8274fc2a.chunk.css.map"
+  "main.css": "/SAV-Hosting-Site/static/css/main.8274fc2a.chunk.css",
+  "main.js": "/SAV-Hosting-Site/static/js/main.666b5312.chunk.js",
+  "main.js.map": "/SAV-Hosting-Site/static/js/main.666b5312.chunk.js.map",
+  "runtime~main.js": "/SAV-Hosting-Site/static/js/runtime~main.adbaad99.js",
+  "runtime~main.js.map": "/SAV-Hosting-Site/static/js/runtime~main.adbaad99.js.map",
+  "static/js/2.962529df.chunk.js": "/SAV-Hosting-Site/static/js/2.962529df.chunk.js",
+  "static/js/2.962529df.chunk.js.map": "/SAV-Hosting-Site/static/js/2.962529df.chunk.js.map",
+  "static/js/3.c70b6b5b.chunk.js": "/SAV-Hosting-Site/static/js/3.c70b6b5b.chunk.js",
+  "static/js/3.c70b6b5b.chunk.js.map": "/SAV-Hosting-Site/static/js/3.c70b6b5b.chunk.js.map",
+  "index.html": "/SAV-Hosting-Site/index.html",
+  "precache-manifest.57b6a9bcdad4e6e6933947015379aca5.js": "/SAV-Hosting-Site/precache-manifest.57b6a9bcdad4e6e6933947015379aca5.js",
+  "service-worker.js": "/SAV-Hosting-Site/service-worker.js",
+  "static/css/main.8274fc2a.chunk.css.map": "/SAV-Hosting-Site/static/css/main.8274fc2a.chunk.css.map"
 }
