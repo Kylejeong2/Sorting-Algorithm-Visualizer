@@ -99,7 +99,7 @@ Project Link: [(https://github.com/Kylejeong2/Sorting-Algorithm-Visualizer)](htt
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-###Clément Mihailescu
+Clément Mihailescu
 - https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g
 
 <p align="right">(<a href="#top">back to top</a>)</p>
