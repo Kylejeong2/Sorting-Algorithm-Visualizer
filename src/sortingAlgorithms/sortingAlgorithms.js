@@ -65,3 +65,53 @@ export function getMergeSortAnimations(array) {
       mainArray[k++] = auxiliaryArray[j++];
     }
   }
+
+  export function getQuickSortAnimations(array) {
+    const animations = [];
+    if (array.length <= 1) return animations;
+    const auxiliaryArray = array.slice();
+    quickSortHelper(array, 0, array.length - 1, auxiliaryArray, animations);
+    return animations;
+  }
+  
+  function quickSortHelper(mainArray, startIdx, endIdx, auxiliaryArray, animations) {
+    if (startIdx < endIdx) {
+      const pivotIdx = partition(mainArray, startIdx, endIdx, auxiliaryArray, animations);
+      quickSortHelper(mainArray, startIdx, pivotIdx - 1, auxiliaryArray, animations);
+      quickSortHelper(mainArray, pivotIdx + 1, endIdx, auxiliaryArray, animations);
+    }
+  }
+  
+  function partition(mainArray, startIdx, endIdx, auxiliaryArray, animations) {
+    const pivotValue = auxiliaryArray[endIdx];
+    let pivotIdx = startIdx;
+  
+    for (let i = startIdx; i < endIdx; i++) {
+      // Push animation for comparing elements
+      animations.push([i, endIdx]);
+      // Push animation for reverting element colors
+      animations.push([i, endIdx]);
+  
+      if (auxiliaryArray[i] <= pivotValue) {
+        // Push animation for swapping elements
+        animations.push([i, pivotIdx, auxiliaryArray[i], auxiliaryArray[pivotIdx]]);
+        
+        // Swap elements in the auxiliary array
+        const temp = auxiliaryArray[i];
+        auxiliaryArray[i] = auxiliaryArray[pivotIdx];
+        auxiliaryArray[pivotIdx] = temp;
+  
+        pivotIdx++;
+      }
+    }
+  
+    // Push animation for swapping pivot and element at pivotIdx
+    animations.push([pivotIdx, endIdx, auxiliaryArray[pivotIdx], auxiliaryArray[endIdx]]);
+    
+    // Swap pivot and element at pivotIdx
+    const temp = auxiliaryArray[pivotIdx];
+    auxiliaryArray[pivotIdx] = auxiliaryArray[endIdx];
+    auxiliaryArray[endIdx] = temp;
+  
+    return pivotIdx;
+  }  
