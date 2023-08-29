@@ -10,7 +10,7 @@
   <p align="center">
     <a href="https://github.com/Kylejeong2/Sorting-Algorithm-Visualizer"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/Kylejeong2/Sorting-Algorithm-Visualizer](https://kylejeong2.github.io/Sorting-Algorithm-Visualizer/">View Demo</a>
+    <a href="https://kylejeong2.github.io/Sorting-Algorithm-Visualizer/">View Demo</a>
     ·
     <a href="https://github.com/Kylejeong2/Sorting-Algorithm-Visualizer/issues">Report Bug</a>
     ·
