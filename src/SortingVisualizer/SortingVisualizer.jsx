@@ -22,6 +22,7 @@ export default class SortingVisualizer extends React.Component {
       array: [],
     };
   }
+  
 
   componentDidMount() {
     this.resetArray();
