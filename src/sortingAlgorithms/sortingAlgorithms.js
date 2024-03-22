@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 export function getMergeSortAnimations(array) {
     const animations = [];
     if (array.length <= 1) return array;
@@ -76,7 +75,7 @@ export function getMergeSortAnimations(array) {
       mainArray[k++] = auxiliaryArray[j++];
     }
   }
-=======
+
 export function getMergeSortAnimations(array) {
     const animations = [];
     if (array.length <= 1) return array;
@@ -133,21 +132,37 @@ export function getMergeSortAnimations(array) {
 
 }
 
-export function getQuickSortAnimations(array){
+function quickSortHelper(mainArray, startIdx, endIdx, animations) {
+  if (startIdx < endIdx) {
+    let pivotIndex = partition(mainArray, startIdx, endIdx, animations);
+    quickSortHelper(mainArray, startIdx, pivotIndex - 1, animations);
+    quickSortHelper(mainArray, pivotIndex + 1, endIdx, animations);
+  }
+}
+
+function partition(mainArray, startIdx, endIdx, animations) {
+  let pivot = mainArray[endIdx];
+  let i = startIdx - 1;
+  for (let j = startIdx; j <= endIdx - 1; j++) {
+    // If current element is smaller than the pivot
+    if (mainArray[j] < pivot) {
+      i++;
+      // Swap mainArray[i] and mainArray[j]
+      [mainArray[i], mainArray[j]] = [mainArray[j], mainArray[i]];
+      // Push animation for swapping
+      animations.push([i, j]);
+    }
+  }
+  // Swap the pivot element with the element at index i+1
+  [mainArray[i + 1], mainArray[endIdx]] = [mainArray[endIdx], mainArray[i + 1]];
+  // Push animation for swapping pivot
+  animations.push([i + 1, endIdx]);
+  return i + 1;
+}
+
+export function getQuickSortAnimations(array) {
   const animations = [];
   if (array.length <= 1) return array;
-  const auxiliaryArray = array.slice();
-  quickSortHelper(array, 0, array.length - 1, auxiliaryArray, animations);
+  quickSortHelper(array, 0, array.length - 1, animations);
   return animations;
-
-  function quickSortHelper(mainArray, startIdx, endIdx, auxiliaryArray, animations,){
-    //chose pivot and move to the right
-    //look for 2 items left larger right smaller
-    //swap left and right
-    //repeat until item from left is greater than item from right then swap item left with pivot
-    //choose pivot with median of 3
-    
-  }
-
 }
->>>>>>> 71fd87023d019a924fd62a5e9edf3c06862fe2ac
