@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Algo-Visualizer
-=======
 <div id="top"></div>
 <!-- PROJECT LOGO -->
 <br />
@@ -106,4 +103,3 @@ Clément Mihailescu
 - https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g
 
 <p align="right">(<a href="#top">back to top</a>)</p>
->>>>>>> 71fd87023d019a924fd62a5e9edf3c06862fe2ac
